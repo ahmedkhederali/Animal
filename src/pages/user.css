@@ -1,0 +1,63 @@
+body{
+    user-select: none;
+}
+li{
+    list-style: none;
+}
+.back-grounded{
+    margin-top: 20px;
+    width: 100%;
+    height: 400px;
+
+}
+.img-profile{
+    position: absolute;
+    top: 340px;
+    left: 670px;
+    margin-top: 20px;
+}
+.header-section{
+    font-weight: bold;
+    text-align: justify;
+}
+.info{
+    padding: 50px 0;
+}
+.personal-information i
+{
+    display: block;
+    margin-left: 69px;
+    color: #69a9a9;
+}
+.personal-information p{
+    font-size: 22px;
+}
+.users-info{
+    margin-left: 20px;
+    
+}
+.social{
+    padding: 10px 15px;
+}
+.social i.face{
+    cursor: pointer;
+    color: blue;
+}
+.social i.twitter{
+    cursor: pointer;
+    color: rgb(113, 113, 185);
+}
+.social i.instagram{
+    cursor: pointer;
+    color: rgb(207, 77, 121);
+}
+.social i.linkedin{
+    cursor: pointer;
+    color: rgb(49, 14, 146);
+}
+
+
+.cat-info{
+    padding: 0;
+    margin: -10px 0;
+}

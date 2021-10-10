@@ -1,0 +1,12 @@
+#cart-icon i.sala{
+    font-size: 25px;
+    color: #000;
+    position: absolute;
+    right: 65px;
+    top:20px
+}
+#cart-icon span{
+    position: absolute;
+    top: 11px;
+    right: 58px;
+}
